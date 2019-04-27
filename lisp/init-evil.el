@@ -616,6 +616,7 @@ If the character before and after CH is space or tab, CH is NOT slash"
        "wf" 'popup-which-function
        "pf" 'project-find-file
        "pe" 'project-find-regexp
+       "ds" 'dictionary-search
        "wc" 'whitespace-cleanup)
 ;; }}
 
